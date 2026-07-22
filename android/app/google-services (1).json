@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257156430689",
+    "project_id": "pantrysaver-ce359",
+    "storage_bucket": "pantrysaver-ce359.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257156430689:android:cf7db151819a97f09c6320",
+        "android_client_info": {
+          "package_name": "PantrySaver.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDagZ7lR0G76jSqCKuhbkVOM6Gb5-ynooM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
