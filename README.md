@@ -1,2 +1,2 @@
-# PantrySaver-
+# PantrySaver
 PantrySaver Project
