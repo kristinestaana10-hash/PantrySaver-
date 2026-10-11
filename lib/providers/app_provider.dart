@@ -7,7 +7,7 @@ import 'package:pantrysaver/services/pantry_service.dart';
 import 'package:pantrysaver/services/shopping_service.dart';
 
 class AppProvider extends ChangeNotifier {
-  AppProvider() {
+  AppProvider({User? initialUser}) : currentUser = initialUser {
     try {
       _authService.authStateChanges.listen((user) {
         currentUser = user;
